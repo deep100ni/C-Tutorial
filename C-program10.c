@@ -8,7 +8,7 @@ void main()
     clrscr();
     printf("Enter two number: ");
     scanf("%d %d",&a,&b);
-    printf("\nAmongst the two numbers, %d and %d, ");
+    printf("\nAmongst the two numbers, %d and %d ",a,b);
     a==b?printf("both Numbers are equal"):(a>b?printf("%d is greater",a):printf("%d is greater",b));
     getch();
 }
