@@ -22,12 +22,17 @@ void main()
         break;
       case 5: printf("It's Five");       
         break;
-          case 6: printf("It's Six");         break;
-          case 7: printf("It's Seven"); break;
-          case 8: printf("It's Eight"); break;
-          case 9: printf("It's Nine");         break;
-          case 10: printf("It's Ten");         break;
-          default: printf("It's not supported yet.");
-     }
-     getch();
+      case 6: printf("It's Six");         
+        break;
+      case 7: printf("It's Seven"); 
+        break;
+      case 8: printf("It's Eight"); 
+        break;
+      case 9: printf("It's Nine");        
+        break;
+      case 10: printf("It's Ten");        
+        break;
+      default: printf("It's not supported yet.");
+    }
+    getch();
 }
