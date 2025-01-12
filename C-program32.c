@@ -1,4 +1,4 @@
-//LSE2-32
+/*Divy Raj Soni*/
 //Using Switch Case (Mini Calculator)
 #include<stdio.h>
 #include<conio.h>
